@@ -1,0 +1,4 @@
+RHT_VMS="bastion workstation utility master01 master02 master03"
+RHT_VMGRP="cluster"
+RHT_VMG_cluster=""
+RHT_NOFINISHVMS="utility master01 master02 master03"
